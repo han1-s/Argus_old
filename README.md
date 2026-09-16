@@ -69,4 +69,208 @@ O nome **Argus** faz referência a **Argos Panoptes**, figura da mitologia grega
 
 A escolha representa a ideia central do sistema:
 
-> **Observar o ambiente**
+> **Observar o ambiente, reunir informações e transformar aquilo que é observado em conhecimento útil.**
+
+Essa ideia também influencia a identidade visual e a experiência da plataforma.
+
+O conceito do Argus está relacionado a:
+
+👁️ Observação
+🔭 Monitoramento
+📊 Análise
+💻 Tecnologia
+🔐 Segurança
+⚙️ Controle
+📈 Organização
+
+---
+
+# 🖥️ Interface Web
+
+A versão presente neste repositório contém uma implementação anterior do frontend do Argus.
+
+A interface foi desenvolvida buscando criar uma identidade visual própria para o projeto, utilizando uma estética tecnológica com elementos de:
+
+* Dark Mode;
+* Neon;
+* Glassmorphism;
+* Efeitos de brilho;
+* Animações;
+* Cards;
+* Timelines;
+* Interfaces responsivas;
+* Elementos interativos.
+
+Essa versão serviu como base para a evolução posterior da interface e para a reconstrução do frontend em uma nova arquitetura.
+
+---
+
+# 🎨 Identidade Visual
+
+A identidade visual do Argus utiliza uma estética inspirada em sistemas de tecnologia e monitoramento.
+
+Entre os principais elementos visuais utilizados estão:
+
+* 🌑 Fundo escuro;
+* 🟣 Roxo e violeta neon;
+* 🟢 Verde para estados positivos;
+* ✨ Efeitos de brilho;
+* 🧊 Elementos translúcidos;
+* 🔲 Cards e painéis;
+* 👁️ Elementos inspirados em monitoramento.
+
+O objetivo é criar uma interface que seja visualmente marcante, mas ainda adequada para uma plataforma corporativa.
+
+---
+
+# 🌐 Páginas do Sistema
+
+O frontend desta versão foi estruturado em diferentes páginas, cada uma com uma responsabilidade específica.
+
+## 🏠 Página Inicial
+
+A página inicial apresenta o Argus e explica sua proposta de maneira rápida.
+
+Possui:
+
+* Identidade visual;
+* Apresentação do sistema;
+* Descrição da plataforma;
+* Botões de ação;
+* Carrossel visual;
+* Navegação principal;
+* Menu de perfil;
+* Acesso à área de planos.
+
+---
+
+## ℹ️ Saiba Mais
+
+A página **Saiba Mais** foi desenvolvida para apresentar o Argus de maneira mais completa.
+
+A página possui seções como:
+
+* Apresentação;
+* O problema;
+* A solução;
+* Funcionamento do Argus;
+* Recursos;
+* Ética e privacidade;
+* Diferenciais;
+* Arquitetura tecnológica;
+* Evolução do projeto.
+
+O objetivo é apresentar não apenas o que o Argus faz, mas também **como ele foi pensado e quais problemas pretende solucionar**.
+
+---
+
+## ⬇️ Download
+
+A página de Download foi criada para centralizar a disponibilização do Argus.
+
+Apresenta:
+
+* Informações da versão;
+* Data de atualização;
+* Compatibilidade;
+* Tamanho do arquivo;
+* Botão de download;
+* Indicador de segurança;
+* Histórico de atualizações;
+* Changelog;
+* Timeline de versões.
+
+A página também foi pensada para futuramente permitir a distribuição do agente de monitoramento.
+
+---
+
+## 💳 Monetização
+
+O projeto também possui uma estrutura inicial para a área de monetização.
+
+A proposta é trabalhar com diferentes planos de utilização, permitindo que o Argus possa futuramente funcionar como uma solução comercial.
+
+Entre os conceitos planejados estão:
+
+* Plano gratuito;
+* Plano profissional;
+* Plano empresarial;
+* Cobrança mensal;
+* Cobrança anual;
+* Comparação de planos;
+* Limite de computadores;
+* Benefícios por plano;
+* Gerenciamento da assinatura;
+* FAQ;
+* Área de confirmação;
+* Simulação de pagamento.
+
+A lógica de monetização foi pensada de forma modular, mantendo **HTML, CSS e JavaScript separados**.
+
+> **Nota:** essa estrutura pertence à implementação anterior e não representa necessariamente a arquitetura utilizada na versão atual do Argus.
+
+---
+
+# 🔄 Funcionamento Proposto
+
+O funcionamento geral do Argus pode ser representado da seguinte maneira:
+
+```text
+┌─────────────────────┐
+│     Computadores    │
+│      monitorados    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│    Agente Argus     │
+│  Coleta de dados    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│       Servidor      │
+│ Comunicação / API   │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│     Processamento   │
+│      dos dados      │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│      Banco de       │
+│       Dados         │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   Dashboard Argus   │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Análise e tomada    │
+│    de decisões      │
+└─────────────────────┘
+```
+
+---
+
+# 📦 Status do Repositório
+
+**Este é o repositório da versão antiga do Argus.**
+
+Ele é mantido principalmente para:
+
+* Registrar a evolução do projeto;
+* Preservar a implementação anterior;
+* Consultar decisões e ideias utilizadas anteriormente;
+* Servir como referência visual e estrutural;
+* Documentar a evolução do projeto durante o curso técnico.
+
+O desenvolvimento atual ocorre em uma **nova versão do Argus**, com uma arquitetura frontend baseada em **React + TypeScript**.
+
+> 🚧 **Este repositório não deve ser considerado a versão principal ou atual do projeto.**
